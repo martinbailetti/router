@@ -1,0 +1,7 @@
+https://github.com/StephenGrider/ReduxSimpleStarter
+
+http://reduxblog.herokuapp.com/
+
+Instalar en Chrome Postman para probar rest
+
+npm install --save react-router-dom@4.0.0
