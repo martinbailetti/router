@@ -5,3 +5,10 @@ http://reduxblog.herokuapp.com/
 Instalar en Chrome Postman para probar rest
 
 npm install --save react-router-dom@4.0.0
+
+
+
+https://github.com/redux-utilities/redux-promise
+npm install --save redux-promise
+https://www.npmjs.com/package/axios
+npm install --save axios
