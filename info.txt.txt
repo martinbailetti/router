@@ -12,3 +12,8 @@ https://github.com/redux-utilities/redux-promise
 npm install --save redux-promise
 https://www.npmjs.com/package/axios
 npm install --save axios
+
+REDUX-FORM
+https://redux-form.com/7.3.0/docs/gettingstarted.md/
+
+npm install --save redux-form@6.6.3
